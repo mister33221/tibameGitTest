@@ -6,7 +6,7 @@ import org.junit.jupiter.api.Test;
 
 class Car {
 
-	private int master2DoTheFix;
+	private int master2DoTheFix2;
 
 
 	@BeforeEach
